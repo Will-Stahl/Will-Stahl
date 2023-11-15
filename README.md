@@ -1,15 +1,20 @@
 # William Stahl
 
 ## About Me
-I am a recent graduate from the University of Minnesota - Twin Cities with a Bachelor of Science in Computer Science (2019 - 2023). I am currently seeking a software engineering position in web, software, embedded, etc.
+I am a recent graduate from the University of Minnesota - Twin Cities with a Bachelor of Science in Computer Science (2019 - 2023).
 
 ## Skills
 - **Languages**: C, C++, Python, Java, OCaml, PHP, JavaScript, HTML, CSS, SQL, x86 Assembly
-- **Tools**: Git, Linux, JUnit, SSH, gdb, Visual Studio Code, Microsoft Office
-- **Other**: unit testing, debugging, software design patterns, technical knowledge of network protocols (IP, TCP, UDP, DNS) and operating systems (virtual memory, file systems, processes)
+- **Tools**: Git, Linux, JUnit, gdb, Visual Studio Code, Code Composer Studio
+- **Other**: bare metal C, unit testing, debugging, software design patterns, technical knowledge of network protocols (IP, TCP, UDP, DNS) and operating systems (virtual memory, file systems, processes)
 
 
 ## Experience
+**Contract Web Developer** (part-time) | July 2023-Present
+Pettys Consulting LLC | Moorhead, MN (Remote)
+-Full-stack development on client's existing React, NodeJS, PostgreSQL web application
+-implemented various updates that helped transform app into a more effective state for helping at-risk-of-failing students
+
 **Student Web Development and Technology Assistant** | July 2022-May 2023
 National Center for Interprofessional Practice and Education | Minneapolis, MN
 - Full-stack development (Linux, nginx, MySQL, php-fpm, memcache, Solr, git,
