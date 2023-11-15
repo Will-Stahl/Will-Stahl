@@ -12,8 +12,10 @@ I am a recent graduate from the University of Minnesota - Twin Cities with a Bac
 ## Experience
 **Contract Web Developer** (part-time) | July 2023-Present
 Pettys Consulting LLC | Moorhead, MN (Remote)
--Full-stack development on client's existing React, NodeJS, PostgreSQL web application
--implemented various updates that helped transform app into a more effective state for helping at-risk-of-failing students
+- Full-stack development on client's existing React, NodeJS, PostgreSQL web application
+- implemented various updates that helped transform app into a more effective state for helping at-risk-of-failing students
+- Utilized Azure DevOps for task tracking
+- Solved production issues through attentive communication with client
 
 **Student Web Development and Technology Assistant** | July 2022-May 2023
 National Center for Interprofessional Practice and Education | Minneapolis, MN
